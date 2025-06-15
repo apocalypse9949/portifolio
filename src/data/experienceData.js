@@ -10,7 +10,7 @@ export const experiences = [
       company: "Web Apps",
       logo: kalpolymers,
       location: "Vijayawada, ON",
-      dateRange: "Jan. 2025 – Apr. 2025",
+      dateRange: "June. 2023 – Apr. 2025",
       description: "Developed a full-stack web application for Music Streaming.",
       githubLink: "", 
       responsibilities: [
